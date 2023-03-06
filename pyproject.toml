@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "gme_price"
+version = "0.1.0"
+description = ""
+authors = ["Francesco Franchina <cescus92@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
